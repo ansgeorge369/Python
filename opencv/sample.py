@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread("C:/Python/opencv/lena.jpg", 1)   #loads color image since flag is 1.
+img = cv.imread("C:\Python\opencv\lena.jpg", 1)   #loads color image since flag is 1.
 print(img)
 
 cv.imshow('Display', img)    #Display - display window name
