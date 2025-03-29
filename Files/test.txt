@@ -1,0 +1,3 @@
+In our previous lesson we learned that we have different stdout streams we can use, such as a file or the screen. 
+Well there are also different standard input (stdin) streams we can use as well. 
+We know that we have stdin from devices like the keyboard, but we can use files, output from other processes and the terminal as well, let's see an example.

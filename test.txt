@@ -1,0 +1,1 @@
+Yocto is a build system for creating custom Linux distributions for embedded systems.
